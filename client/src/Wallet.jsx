@@ -27,7 +27,7 @@ function Wallet({ address, setAddress, balance, setBalance, setAddressNonce }) {
 
       <label>
         Ethereum Wallet Address
-        <input placeholder="For example: 0x1" value={address} onChange={onChange}></input>
+        <input placeholder="For example: 0x739819c7704841bd2886CBc1788293C78D255039" value={address} onChange={onChange}></input>
       </label>
 
       <label>
