@@ -1,6 +1,8 @@
 ## Elliptic Curve Digital Signature Algorithm Node
 This project is an example of using a client and server to facilitate transfers between different addresses. By using Elliptic Curve Digital Signatures, the server only allows transfers that have been signed for by the person who owns the associated address.
 
+_NOTE_: This is my submission for 'Alchemy University Ethereum Developer Bootcamp - Week 1 Project'.
+
 ### Client
 The client folder contains a [react app](https://reactjs.org/) using [vite](https://vitejs.dev/). To get started, follow these steps:
 
@@ -17,3 +19,10 @@ The server folder contains a node.js server using [express](https://expressjs.co
 3. Run `node index` to start the server 
 
 The application should connect to the default server port (3042) automatically!
+
+### Key Highlights
+1. Used Metamask wallet to sign/verify transactions using ethers.js.
+2. Ensured security by stopping replay attacks using account nonce in backend.
+
+### Application UI
+![App UI Screenshot](client/public/app_ui.png)
