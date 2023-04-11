@@ -54,7 +54,7 @@ function Transfer({ address, setBalance, provider, setAddressNonce, addressNonce
       <label>
         Recipient Wallet Address
         <input
-          placeholder="For example: 0x2"
+          placeholder="For example: 0x00c6348827A2572137b5Ba560fFEc72bAbE14A13"
           value={recipient}
           onChange={setValue(setRecipient)}
         ></input>
