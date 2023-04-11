@@ -1,5 +1,5 @@
 ## Elliptic Curve Digital Signature Algorithm Node
-This project is an example of using a client and server to facilitate transfers between different addresses. By using Elliptic Curve Digital Signatures, the server only allows transfers that have been signed for by the person who owns the associated address.
+This project is an example of using a client and server to facilitate transfers between different ethereum addresses. By using Elliptic Curve Digital Signatures, the server only allows transfers that have been signed for by the person who owns the associated metamask address.
 
 _NOTE_: This is my submission for 'Alchemy University Ethereum Developer Bootcamp - Week 1 Project'.
 
