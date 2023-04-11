@@ -24,4 +24,4 @@ The server folder contains a node.js server using [express](https://expressjs.co
 2. Ensured security by stopping replay attacks using account nonce in backend.
 
 ### Application UI
-![app_ui](https://user-images.githubusercontent.com/101626397/231204685-53f3654c-7510-4f90-8b69-b954827ea31d.png)
+![app_ui](https://user-images.githubusercontent.com/101626397/231207471-6a876277-b8ea-48d1-be1a-e188e4ec27d7.png)
