@@ -25,4 +25,4 @@ The application should connect to the default server port (3042) automatically!
 2. Ensured security by stopping replay attacks using account nonce in backend.
 
 ### Application UI
-
+![app_ui](https://user-images.githubusercontent.com/101626397/231204685-53f3654c-7510-4f90-8b69-b954827ea31d.png)
